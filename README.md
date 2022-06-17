@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://johannt91.github.io/react-portfolio/
+https://www.johanntaylor.com/
 
 <!--
 **johannt91/johannt91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
